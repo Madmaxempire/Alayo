@@ -917,6 +917,17 @@ footer span a:hover{
     .slider-wrapper{
         width: 95%;
     }
+     .slider-nav{
+        column-gap: 2.6rem;
+    }
+    .slider-nav a{
+        width: 0.9rem;
+        height: 0.9rem;
+    }
+    .slider-nav a:hover{
+        width: 1.2rem;
+        height: 1.2rem;
+    }
 
     /*contact page*/
     .contact-container{
