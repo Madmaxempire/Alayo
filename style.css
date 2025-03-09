@@ -895,14 +895,17 @@ footer span a:hover{
         width: 200px;
     }
     .btn-2{
-        width:145px;
-        height: 45px;
+        width:140px;
+        height: 43px;
+    }
+    .btn-2 a{
+        font-size: 16px;
     }
     .title h2{
         font-size: 30px;  
     }
     .title p{
-        font-size: 20px;
+        font-size: 19px;
     }
     
     .title2 h2{
